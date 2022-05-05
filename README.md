@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
 <h3 align="center">A passionate Software engineer ,</h3>
 
-- 🔭 I’m currently working on **Ecommerce website using laravel framework**
-
 - 🤝 I’m looking for a new role **as backend developer**
 
 - 📫 How to reach me **mohamed.reda.elbadawi@gmail.com**
