@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
-<h3 align="center">A passionate Software engineer ,</h3>
+<h3 align="center"> Software engineer ,</h3>
 
 - 🤝 I’m looking for a new role **as backend developer**
 
